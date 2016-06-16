@@ -24,3 +24,15 @@
 .stack img:first{
     margin-left: 0;
 }
+
+@media only screen and (max-width: 768px){
+    .video iframe{
+        min-height: 445px;
+    }
+}
+
+@media only screen and (max-width: 550px){
+    .video iframe {
+        min-height: 300px;
+    }
+}
