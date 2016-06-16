@@ -1,0 +1,26 @@
+.logo{
+    margin-top: 50px !important;
+}
+
+.video{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.video iframe{
+    min-height: 600px;
+}
+
+.stack{
+    margin-top: 10px;
+    text-align: center;
+    color: #fff;
+}
+
+.stack img{
+    margin-left: 5px;
+}
+
+.stack img:first{
+    margin-left: 0;
+}
